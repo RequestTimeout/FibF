@@ -1,21 +1,22 @@
 # <div align="center">FibF</div>
 ## How to download and use FibF
 ### Installation (Python 3.X required)
-First download `fibf.py` from /RequestTimeout/FibF/src/fibf.py
+First download `fibF.py` from /RequestTimeout/FibF/src/fibf.py
 
 Then place the Python file somewhere accessible, for example:
 ```text
-C:\fibf\fibf.py
+C:\fibF\fibF.py
 ```
 Then whenever you need a Fibonacci number, open a terminal and run:
 ```bash
-python "C:\fibf\fibf.py"
+python "C:\fibF\fibF.py"
 ```
 FibF will ask:
 ```text
 Generate output.txt? (1 or 0):
 ```
 Enter `1` if you want the generated Fibonacci number saved to `output.txt`
+
 or enter `0` if you don't want ANY kind of output.
 
 Then, FibF will ask for the Fibonacci index and calculation method:
