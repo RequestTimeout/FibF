@@ -37,7 +37,7 @@ If `output.txt` was enabled, FibF will generate `output.txt`
 
 FibF will also display how long the calculation took; for example:
 ```text
-The process took 00:00:00:130
+The process took 00:00:00.130 seconds.
 ```
 ## Requirements
 * Python 3.x
