@@ -1,6 +1,8 @@
 # <div align="center">FibF</div>
 **Fibonacci, but faster.**
 
+For more information, click [here](HowTo.md).
+
 A small Fibonacci number generator with two calculation methods:
 * **Normal** — calculates Fibonacci numbers sequentially.
 * **Fast** — uses the fast-doubling algorithm for faster calculation of large Fibonacci numbers.
@@ -22,11 +24,11 @@ Example:
 Generate output.txt? (1 or 0): 0
 Enter a number: 1000000
 Normal or fast: fast
-The process took 00:00:00:130
+The process took 00:00:00.130 seconds.
 ```
 ## Requirements
 * Python 3.x
 ## License
-All Rights Reserved [Request Timeout](https://github.com/RequestTimeout)
+— All Rights Reserved [Request Timeout](https://github.com/RequestTimeout)
 
 [LICENSE](LICENSE.md)
