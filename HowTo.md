@@ -1,7 +1,7 @@
 # <div align="center">FibF</div>
 ## How to download and use FibF
 ### Installation (Python 3.X required)
-First download `fibF.py` from /RequestTimeout/FibF/src/fibf.py
+First download `fibF.py` from /RequestTimeout/FibF/src/fibF.py
 
 Then place the Python file somewhere accessible, for example:
 ```text
@@ -34,7 +34,7 @@ Calculates Fibonacci numbers sequentially.
 Uses the fast-doubling algorithm, allowing extremely large Fibonacci numbers to be calculated much faster.
 
 ### Output
-If `output.txt` was enabled, FibF will generate `output.txt`
+If `output.txt` was enabled, FibF will generate `output.txt` in the directory that the terminal was opened.
 
 FibF will also display how long the calculation took; for example:
 ```text
